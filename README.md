@@ -1,4 +1,4 @@
-# Astro on Netlify Platform Starter
+# Chocolatier
 
 [Live Demo](https://astro-platform-starter.netlify.app/)
 
